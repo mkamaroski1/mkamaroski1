@@ -1,4 +1,5 @@
-E ai, eu sou o Kamaroski estudante de engenharia de software pela PUCPR!
+E ai, eu sou o Kamaroski. 
+Estudante de engenharia de software pela PUCPR!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkamaroski1&show_icons=true&theme=dracula)
